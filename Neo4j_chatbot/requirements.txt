@@ -1,0 +1,6 @@
+streamlit
+neo4j
+sentence-transformers
+torch
+
+deep-translator==1.10.1
