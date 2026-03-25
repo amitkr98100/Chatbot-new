@@ -129,6 +129,9 @@ default_yaml_data = """
 
 - question: "Hi"
   answer: "Hello! How's it going?"
+  
+- question: "kya tumne khana kha liya"
+  answer: "Nahi mai ek robot hu?"
 
 - question: "What is phishing?"
   answer: "Phishing is a cyber attack to steal sensitive information."
